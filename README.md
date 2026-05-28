@@ -11,7 +11,7 @@
 <!-- Organization Name -->
 <div align="center">
 
-[![Static Badge](https://img.shields.io/badge/Stability_Nexus-/TODO-228B22?style=for-the-badge&labelColor=FFC517)](https://TODO.stability.nexus/)
+[![Static Badge](https://img.shields.io/badge/Stability_Nexus-Papers-228B22?style=for-the-badge&labelColor=FFC517)](https://TODO.stability.nexus/)
 
 <!-- Correct deployed url to be added -->
 

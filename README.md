@@ -50,4 +50,4 @@
 <h1>Our Papers</h1>
 </div>
 
-This repository contains PDFs of papers co-authored by members of the Stability Nexus.
+This repository contains PDFs of papers co-authored by members of the Stability Nexus. PDFs of all papers can be found in the [papers](https://github.com/StabilityNexus/Papers/tree/main/papers) folder. To cite our papers, please use the bibtex entries available in [CitationEntries.bib](https://github.com/StabilityNexus/Papers/blob/main/CitationEntries.bib).
